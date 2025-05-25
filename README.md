@@ -86,11 +86,4 @@ Churn_Prediction_Model/
 └── README.md         # Este arquivo
 ```
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` (a ser adicionado) para mais detalhes.
-
----
-
-*Desenvolvido como parte do portfólio de Danilo Blanco Motta.*
 
